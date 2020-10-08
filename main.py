@@ -1,5 +1,4 @@
 from kivymd.app import MDApp
-from kivymd.uix.label import MDLabel
 from kivy.lang.builder import Builder
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.core.window import Window
@@ -155,7 +154,6 @@ matches = sports.get_sport(sports.TENNIS)
 class AppApp(MDApp):
 
     def build(self):
-        label = MDLabel(text='Hello World' + str(matches))
         self.theme_cls.theme_style = "Dark"
         screen = Builder.load_string(screen_helper)
         return screen
