@@ -1,6 +1,6 @@
 # SimText
 ## RharmDev
-Simple text editor made in Python and the KivyMD framework.
+Very Very Simple text editor made in Python, Kivy and the KivyMD framework.
 
 ### This is a first project using the Kivy framework alongside KivyMD, this package is incredible deep in features and contains up to date functioning widgets.
 ### You can grab the repo here: https://github.com/kivymd/KivyMD
