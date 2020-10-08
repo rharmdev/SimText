@@ -172,7 +172,6 @@ class AppApp(MDApp):
         self.screen = Builder.load_string(screen_helper)
         return self.screen
 
-
     def gettext(self, text):
         self.label_field.text = text
 
