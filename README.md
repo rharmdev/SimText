@@ -1,2 +1,5 @@
 # SimText
-Simple text editor made in Python and KivyMD
+## RharmDev
+Simple text editor made in Python and the KivyMD framework.
+
+
